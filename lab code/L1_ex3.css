@@ -1,0 +1,23 @@
+header{
+	height:100px;
+	background-color:blue;
+}
+nav{
+	width:20%;
+	float:left;
+	background-color:green;
+}
+main{
+	width:60%;
+	float:left;
+	background-color:aqua;
+}
+#sidebar{
+	width:20%;
+	float:left;
+	background-color:yellow;
+}
+footer{
+	background-color:red;
+	clear:both;
+}

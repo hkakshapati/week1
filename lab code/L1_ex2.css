@@ -1,0 +1,18 @@
+header{
+	height:100px;
+	background-color:blue;
+}
+nav{
+	width:20%;
+	float:left;
+	background-color:green;
+}
+main{
+	width:80%;
+	float:left;
+	background-color:aqua;
+}
+footer{
+	background-color:red;
+	clear:both;
+}
